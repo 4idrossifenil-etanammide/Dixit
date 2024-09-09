@@ -46,20 +46,17 @@ def parse_data(path_to_game: str, path_to_save: str) -> None:
     while i < len(lines):
         line = lines[i]
             
-        # Detect start of new round with cards
         if "PLAYERS CARDS:" in line:
             round_num += 1
             players_cards[round_num] = {}
             i += 1
             continue
             
-        # Extract player's cards for each round
         if re.match(r'^[A-Za-z\s0-9]+ has the following cards:', line):
             player, cards = line.split(" has the following cards: ")
             cards = cards.strip().strip('[]').split(", ")
             players_cards[round_num][player.strip()] = cards
 
-        # Extract narrations (captions given by narrators)
         elif "is giving a caption..." in line:
             player = line.split(" is giving a caption...")[0].strip()
             caption_line = lines[i + 1]
@@ -67,7 +64,6 @@ def parse_data(path_to_game: str, path_to_save: str) -> None:
             narrations.append((round_num, player, caption))
             i += 1
 
-        # Extract votes
         elif re.match(r'^[A-Za-z\s0-9]+ with card \d+ has been voted by', line):
             details = line.split(' with card ')
             player_card = details[0].strip()
@@ -76,16 +72,15 @@ def parse_data(path_to_game: str, path_to_save: str) -> None:
             voted_by = votes_info.strip()
             votes.append((round_num, player_card, card_number, voted_by))
 
-        # Extract points
         elif "POINTS" in line:
             i += 2  # Move to the next line after "POINTS"
             while i < len(lines) and re.match(r'^[A-Za-z\s0-9]+: \d+', lines[i]):
                 player, score = lines[i].split(": ")
                 points.append((round_num, player.strip(), int(score)))
                 i += 1
-            continue  # Continue to next line after points extraction
+            continue  
 
-        i += 1  # Move to the next line
+        i += 1 
 
         cards_df = pd.DataFrame([(rnd, ply, card) for rnd, ply_cards in players_cards.items() for ply, cards in ply_cards.items() for card in cards], columns=['Round', 'Player', 'Card'])
         narrations_df = pd.DataFrame(narrations, columns=['Round', 'Narrator', 'Caption'])

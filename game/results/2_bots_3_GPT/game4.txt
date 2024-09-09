@@ -1,0 +1,633 @@
+Loading models...
+Models loaded successfully!
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 44, 64, 47, 30, 35]
+GPT Bot 2 has the following cards: [74, 54, 36, 45, 6, 62]
+GPT Bot 3 has the following cards: [41, 50, 68, 16, 15, 75]
+Bot 1 has the following cards: [57, 11, 66, 20, 83, 70]
+Bot 2 has the following cards: [28, 19, 81, 23, 43, 9]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 1 is giving a caption...
+GPT Bot 1 selected a card with caption: "The universe in her hands."
+
+----------SELECTION PHASE----------
+
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 64 has been voted by GPT Bot 2, GPT Bot 3, Bot 1, Bot 2
+GPT Bot 2 with card 74 has been voted by no one
+GPT Bot 3 with card 16 has been voted by no one
+Bot 1 with card 70 has been voted by no one
+Bot 2 with card 19 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 0
+GPT Bot 2: 2
+GPT Bot 3: 2
+Bot 1: 2
+Bot 2: 2
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 44, 47, 30, 35, 8]
+GPT Bot 2 has the following cards: [54, 36, 45, 6, 62, 46]
+GPT Bot 3 has the following cards: [41, 50, 68, 15, 75, 5]
+Bot 1 has the following cards: [57, 11, 66, 20, 83, 12]
+Bot 2 has the following cards: [28, 81, 23, 43, 9, 4]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 2 is giving a caption...
+GPT Bot 2 selected a card with caption: "A journey into imagination."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 44 has been voted by no one
+GPT Bot 2 with card 36 has been voted by GPT Bot 1, GPT Bot 3, Bot 2
+GPT Bot 3 with card 5 has been voted by no one
+Bot 1 with card 11 has been voted by no one
+Bot 2 with card 43 has been voted by Bot 1
+
+---------------POINTS---------------
+
+GPT Bot 1: 3
+GPT Bot 2: 5
+GPT Bot 3: 5
+Bot 1: 2
+Bot 2: 6
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 47, 30, 35, 8, 51]
+GPT Bot 2 has the following cards: [54, 45, 6, 62, 46, 79]
+GPT Bot 3 has the following cards: [41, 50, 68, 15, 75, 84]
+Bot 1 has the following cards: [57, 66, 20, 83, 12, 21]
+Bot 2 has the following cards: [28, 81, 23, 9, 4, 25]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 3 is giving a caption...
+GPT Bot 3 selected a card with caption: "A delicate dance on the edge of chaos."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 30 has been voted by no one
+GPT Bot 2 with card 62 has been voted by Bot 1, Bot 2
+GPT Bot 3 with card 15 has been voted by GPT Bot 1
+Bot 1 with card 21 has been voted by GPT Bot 2
+Bot 2 with card 4 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 6
+GPT Bot 2: 7
+GPT Bot 3: 8
+Bot 1: 3
+Bot 2: 6
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 47, 35, 8, 51, 2]
+GPT Bot 2 has the following cards: [54, 45, 6, 46, 79, 60]
+GPT Bot 3 has the following cards: [41, 50, 68, 75, 84, 59]
+Bot 1 has the following cards: [57, 66, 20, 83, 12, 29]
+Bot 2 has the following cards: [28, 81, 23, 9, 25, 34]
+
+
+----------NARRATOR PHASE----------
+
+Bot 1 is giving a caption...
+Bot 1 selected a card with caption: "elegant serenity amidst surrealism, artistic symphony."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 35 has been voted by GPT Bot 2, GPT Bot 3
+GPT Bot 2 with card 6 has been voted by GPT Bot 1
+GPT Bot 3 with card 75 has been voted by no one
+Bot 1 with card 29 has been voted by Bot 2
+Bot 2 with card 9 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 8
+GPT Bot 2: 8
+GPT Bot 3: 8
+Bot 1: 6
+Bot 2: 9
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 47, 8, 51, 2, 72]
+GPT Bot 2 has the following cards: [54, 45, 46, 79, 60, 39]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 59, 33]
+Bot 1 has the following cards: [57, 66, 20, 83, 12, 26]
+Bot 2 has the following cards: [28, 81, 23, 25, 34, 27]
+
+
+----------NARRATOR PHASE----------
+
+Bot 2 is giving a caption...
+Bot 2 selected a card with caption: "serene contemplation amidst enigma."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 8 has been voted by GPT Bot 2
+GPT Bot 2 with card 39 has been voted by GPT Bot 1, GPT Bot 3, Bot 1
+GPT Bot 3 with card 59 has been voted by no one
+Bot 1 with card 66 has been voted by no one
+Bot 2 with card 28 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 10
+GPT Bot 2: 10
+GPT Bot 3: 10
+Bot 1: 8
+Bot 2: 9
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 47, 51, 2, 72, 56]
+GPT Bot 2 has the following cards: [54, 45, 46, 79, 60, 13]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 33, 7]
+Bot 1 has the following cards: [57, 20, 83, 12, 26, 40]
+Bot 2 has the following cards: [81, 23, 25, 34, 27, 63]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 1 is giving a caption...
+GPT Bot 1 selected a card with caption: "A vessel of dreams soaring through the skies."
+
+----------SELECTION PHASE----------
+
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 56 has been voted by GPT Bot 2, GPT Bot 3
+GPT Bot 2 with card 13 has been voted by Bot 1, Bot 2
+GPT Bot 3 with card 7 has been voted by no one
+Bot 1 with card 26 has been voted by no one
+Bot 2 with card 23 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 13
+GPT Bot 2: 15
+GPT Bot 3: 13
+Bot 1: 8
+Bot 2: 9
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 47, 51, 2, 72, 65]
+GPT Bot 2 has the following cards: [54, 45, 46, 79, 60, 42]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 33, 10]
+Bot 1 has the following cards: [57, 20, 83, 12, 40, 31]
+Bot 2 has the following cards: [81, 25, 34, 27, 63, 82]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 2 is giving a caption...
+GPT Bot 2 selected a card with caption: "The puppeteers of emotions."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 2 has been voted by no one
+GPT Bot 2 with card 46 has been voted by GPT Bot 1, GPT Bot 3, Bot 1, Bot 2
+GPT Bot 3 with card 10 has been voted by no one
+Bot 1 with card 12 has been voted by no one
+Bot 2 with card 27 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 15
+GPT Bot 2: 15
+GPT Bot 3: 15
+Bot 1: 10
+Bot 2: 11
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 47, 51, 72, 65, 76]
+GPT Bot 2 has the following cards: [54, 45, 79, 60, 42, 71]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 33, 22]
+Bot 1 has the following cards: [57, 20, 83, 40, 31, 58]
+Bot 2 has the following cards: [81, 25, 34, 63, 82, 73]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 3 is giving a caption...
+GPT Bot 3 selected a card with caption: "A kitchen under the pressure of creation."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 47 has been voted by Bot 1, Bot 2
+GPT Bot 2 with card 42 has been voted by no one
+GPT Bot 3 with card 33 has been voted by GPT Bot 1, GPT Bot 2
+Bot 1 with card 31 has been voted by no one
+Bot 2 with card 73 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 20
+GPT Bot 2: 18
+GPT Bot 3: 18
+Bot 1: 10
+Bot 2: 11
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 51, 72, 65, 76, 49]
+GPT Bot 2 has the following cards: [54, 45, 79, 60, 71, 14]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 22, 77]
+Bot 1 has the following cards: [57, 20, 83, 40, 58, 52]
+Bot 2 has the following cards: [81, 25, 34, 63, 82, 55]
+
+
+----------NARRATOR PHASE----------
+
+Bot 1 is giving a caption...
+Bot 1 selected a card with caption: "whimsical serenity amidst natural wonder."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 65 has been voted by no one
+GPT Bot 2 with card 45 has been voted by GPT Bot 1, GPT Bot 3, Bot 2
+GPT Bot 3 with card 22 has been voted by no one
+Bot 1 with card 58 has been voted by no one
+Bot 2 with card 55 has been voted by GPT Bot 2
+
+---------------POINTS---------------
+
+GPT Bot 1: 22
+GPT Bot 2: 20
+GPT Bot 3: 20
+Bot 1: 10
+Bot 2: 13
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 51, 72, 76, 49, 38]
+GPT Bot 2 has the following cards: [54, 79, 60, 71, 14, 3]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 77, 37]
+Bot 1 has the following cards: [57, 20, 83, 40, 52, 1]
+Bot 2 has the following cards: [81, 25, 34, 63, 82, 80]
+
+
+----------NARRATOR PHASE----------
+
+Bot 2 is giving a caption...
+Bot 2 selected a card with caption: "contemplative, surrealistic, majestic"
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 76 has been voted by GPT Bot 2, GPT Bot 3, Bot 1
+GPT Bot 2 with card 71 has been voted by no one
+GPT Bot 3 with card 77 has been voted by GPT Bot 1
+Bot 1 with card 52 has been voted by no one
+Bot 2 with card 25 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 24
+GPT Bot 2: 22
+GPT Bot 3: 22
+Bot 1: 12
+Bot 2: 13
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 51, 72, 49, 38, 48]
+GPT Bot 2 has the following cards: [54, 79, 60, 14, 3, 32]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 37, 24]
+Bot 1 has the following cards: [57, 20, 83, 40, 1, 18]
+Bot 2 has the following cards: [81, 34, 63, 82, 80, 61]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 1 is giving a caption...
+GPT Bot 1 selected a card with caption: "A magnifying glass reveals a world in miniature."
+
+----------SELECTION PHASE----------
+
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 38 has been voted by GPT Bot 2, GPT Bot 3, Bot 1, Bot 2
+GPT Bot 2 with card 60 has been voted by no one
+GPT Bot 3 with card 24 has been voted by no one
+Bot 1 with card 57 has been voted by no one
+Bot 2 with card 61 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 24
+GPT Bot 2: 24
+GPT Bot 3: 24
+Bot 1: 14
+Bot 2: 15
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 51, 72, 49, 48, 52]
+GPT Bot 2 has the following cards: [54, 79, 14, 3, 32, 4]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 37, 78]
+Bot 1 has the following cards: [20, 83, 40, 1, 18, 30]
+Bot 2 has the following cards: [81, 34, 63, 82, 80, 7]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 2 is giving a caption...
+GPT Bot 2 selected a card with caption: "Silent chains of thought."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 3 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 51 has been voted by no one
+GPT Bot 2 with card 32 has been voted by GPT Bot 1, GPT Bot 3, Bot 1, Bot 2
+GPT Bot 3 with card 37 has been voted by no one
+Bot 1 with card 30 has been voted by no one
+Bot 2 with card 7 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 26
+GPT Bot 2: 24
+GPT Bot 3: 26
+Bot 1: 16
+Bot 2: 17
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 72, 49, 48, 52, 62]
+GPT Bot 2 has the following cards: [54, 79, 14, 3, 4, 75]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 78, 53]
+Bot 1 has the following cards: [20, 83, 40, 1, 18, 2]
+Bot 2 has the following cards: [81, 34, 63, 82, 80, 46]
+
+
+----------NARRATOR PHASE----------
+
+GPT Bot 3 is giving a caption...
+GPT Bot 3 selected a card with caption: "A tree reaching for the sky amidst the towering buildings."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+Bot 1 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+Bot 1 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 49 has been voted by no one
+GPT Bot 2 with card 75 has been voted by no one
+GPT Bot 3 with card 78 has been voted by GPT Bot 1, GPT Bot 2, Bot 1, Bot 2
+Bot 1 with card 1 has been voted by no one
+Bot 2 with card 34 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 28
+GPT Bot 2: 26
+GPT Bot 3: 26
+Bot 1: 18
+Bot 2: 19
+
+===================================
+
+PLAYERS CARDS:
+GPT Bot 1 has the following cards: [17, 72, 48, 52, 62, 12]
+GPT Bot 2 has the following cards: [54, 79, 14, 3, 4, 16]
+GPT Bot 3 has the following cards: [41, 50, 68, 84, 53, 23]
+Bot 1 has the following cards: [20, 83, 40, 18, 2, 47]
+Bot 2 has the following cards: [81, 63, 82, 80, 46, 65]
+
+
+----------NARRATOR PHASE----------
+
+Bot 1 is giving a caption...
+Bot 1 selected a card with caption: "whimsical serenity amidst nature's embrace, and gentle grace."
+
+----------SELECTION PHASE----------
+
+GPT Bot 1 is selecting a card...
+GPT Bot 2 is selecting a card...
+GPT Bot 3 is selecting a card...
+Bot 2 is selecting a card...
+
+----------VOTING PHASE----------
+
+GPT Bot 1 is voting...
+GPT Bot 2 is voting...
+GPT Bot 3 is voting...
+Bot 2 is voting...
+
+---------------VOTES---------------
+
+GPT Bot 1 with card 52 has been voted by no one
+GPT Bot 2 with card 16 has been voted by no one
+GPT Bot 3 with card 23 has been voted by no one
+Bot 1 with card 83 has been voted by GPT Bot 1, GPT Bot 2, GPT Bot 3, Bot 2
+Bot 2 with card 81 has been voted by no one
+
+---------------POINTS---------------
+
+GPT Bot 1: 30
+GPT Bot 2: 28
+GPT Bot 3: 28
+Bot 1: 18
+Bot 2: 21
+
+===================================
+
+GPT Bot 1 has won!
