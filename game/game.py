@@ -15,7 +15,7 @@ import torch
 
 class Game():
 
-    def __init__(self, n_players: int, gpt_players: int, path_to_images: str, playable: bool, points_to_win: int, print_cards: bool, path_to_blip_weights: str = "weights/blip/epoch50.pt", path_to_clip_weights: str = "weights/clip/epoch10.pt"):
+    def __init__(self, n_players: int, gpt_players: int, path_to_images: str, playable: bool, points_to_win: int, print_cards: bool, path_to_blip_weights: str = "game_weights/blip/epoch50.pt", path_to_clip_weights: str = "game_weights/clip/epoch10.pt"):
         self.playable = playable
         self.n_players = n_players
         
