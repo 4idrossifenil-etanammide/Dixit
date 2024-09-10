@@ -66,11 +66,11 @@ def parse_data(path_to_game: str, path_to_save: str) -> None:
 
         elif re.match(r'^[A-Za-z\s0-9]+ with card \d+ has been voted by', line):
             details = line.split(' with card ')
-            player_card = details[0].strip()
+            player = details[0].strip()
             card_info, votes_info = details[1].split(' has been voted by ')
             card_number = int(card_info.strip())
             voted_by = votes_info.strip()
-            votes.append((round_num, player_card, card_number, voted_by))
+            votes.append((round_num, player, card_number, voted_by))
 
         elif "POINTS" in line:
             i += 2  # Move to the next line after "POINTS"
@@ -82,16 +82,30 @@ def parse_data(path_to_game: str, path_to_save: str) -> None:
 
         i += 1 
 
-        cards_df = pd.DataFrame([(rnd, ply, card) for rnd, ply_cards in players_cards.items() for ply, cards in ply_cards.items() for card in cards], columns=['Round', 'Player', 'Card'])
-        narrations_df = pd.DataFrame(narrations, columns=['Round', 'Narrator', 'Caption'])
-        votes_df = pd.DataFrame(votes, columns=['Round', 'Player', 'Card', 'Voted By'])
-        points_df = pd.DataFrame(points, columns=['Round', 'Player', 'Points'])
+    winners = ("").join(lines).split("===================================")[-1].strip()
+    winners = winners.split("\n")
+    winners = [line.split(" has won!")[0] for line in winners]
+    players = set([x[1] for x in votes])
 
-        with pd.ExcelWriter(path_to_save[:-4] + ".xlsx") as writer:
-            cards_df.to_excel(writer, sheet_name='Cards', index=False)
-            narrations_df.to_excel(writer, sheet_name='Narrations', index=False)
-            votes_df.to_excel(writer, sheet_name='Votes', index=False)
-            points_df.to_excel(writer, sheet_name='Points', index=False)
+    win_stats = []
+    for player in players:
+        if player in winners:
+            win_stats.append((player, 1))
+        else:
+            win_stats.append((player, 0))
+
+    cards_df = pd.DataFrame([(rnd, ply, card) for rnd, ply_cards in players_cards.items() for ply, cards in ply_cards.items() for card in cards], columns=['Round', 'Player', 'Card'])
+    narrations_df = pd.DataFrame(narrations, columns=['Round', 'Narrator', 'Caption'])
+    votes_df = pd.DataFrame(votes, columns=['Round', 'Player', 'Card', 'Voted By'])
+    points_df = pd.DataFrame(points, columns=['Round', 'Player', 'Points'])
+    win_df = pd.DataFrame(win_stats, columns=['Player', 'Winner'])
+
+    with pd.ExcelWriter(path_to_save[:-4] + ".xlsx") as writer:
+        cards_df.to_excel(writer, sheet_name='Cards', index=False)
+        narrations_df.to_excel(writer, sheet_name='Narrations', index=False)
+        votes_df.to_excel(writer, sheet_name='Votes', index=False)
+        points_df.to_excel(writer, sheet_name='Points', index=False)
+        win_df.to_excel(writer, sheet_name='Winners', index=False)
 
 
 if __name__ == "__main__":

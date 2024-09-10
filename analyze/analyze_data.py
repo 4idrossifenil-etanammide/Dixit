@@ -107,7 +107,23 @@ def compute_combined_averages(file_list, sheet_name, value_cols):
     combined_averages = pd.concat([gpt_averages, bot_averages], axis=1)
     return combined_averages
 
-def summarize(path_to_save, file_list):
+def compute_winners_stats(original_files):
+    tot_gpt_winners = 0
+    tot_bot_winners = 0
+
+    for file_path in original_files:
+        df = pd.read_excel(file_path, sheet_name = "Winners")
+        gpt_players = df[df["Player"].str.match(r'^GPT Bot', case=False, na=False)]
+        bot_players = df[df["Player"].str.match(r'^Bot(?!.*GPT)', case=False, na=False)]
+
+        tot_gpt_winners += gpt_players["Winner"].sum()
+        tot_bot_winners += bot_players["Winner"].sum()
+
+    win_stats = {"GPT": (tot_gpt_winners/len(original_files)) * 100, "Bot": (tot_bot_winners/len(original_files)) * 100}
+    return  pd.DataFrame(win_stats.items(), columns=['Player', 'Winner Percent'])
+
+
+def summarize(path_to_save, file_list, original_files):
     with pd.ExcelWriter(os.path.join(path_to_save, "summarize.xlsx")) as writer:
         narrator_votes_averages = compute_combined_averages(file_list, 'Narrator Votes Stats', 
                                                             ['percent_voted_by_all', 'percent_voted_by_none', 'percent_voted_by_someone'])
@@ -120,7 +136,9 @@ def summarize(path_to_save, file_list):
         correct_votes_averages = compute_combined_averages(file_list, 'Correct Votes Stats',
                                                         ['percent_correct_votes_for_narrator'])
         correct_votes_averages.to_excel(writer, sheet_name='Correct Votes Averages')
-        
+
+        win_stats = compute_winners_stats(original_files)
+        win_stats.to_excel(writer, sheet_name='Winners Statistics', index=False)
 
 if __name__ == "__main__":
 
@@ -128,15 +146,17 @@ if __name__ == "__main__":
     data_folder = args.data_folder
 
     for dir_path, _, filenames in os.walk(data_folder):
-        files = []
+        analysis_files = []
+        original_files = []
         for file_name in filenames:
             path_to_file = os.path.join(dir_path, file_name)
             path_to_save = os.path.join(dir_path, file_name[:-5] + "_analysis.xlsx")
 
             create_analysis(path_to_file, path_to_save)
-            files.append(path_to_save)
+            analysis_files.append(path_to_save)
+            original_files.append(path_to_file)
 
-        if len(files) != 0:
-            summarize(dir_path, files)
+        if len(analysis_files) != 0:
+            summarize(dir_path, analysis_files, original_files)
 
         
