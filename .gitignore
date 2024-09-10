@@ -1,6 +1,7 @@
-testing_and_playing/odissey_cards
-testing_and_playing/online_cards
-testing_and_playing/original_cards
-testing_and_playing/testing_weights
-game/odissey_cards
-game/game_weights
+cards/odissey_cards
+cards/online_cards
+cards/original_cards
+weights/rephrased_blip
+weights/rephrased_blip(2nd)
+weights/rephrased_coco_clip
+weights/rephrased_coco_clip(2nd)

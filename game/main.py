@@ -18,6 +18,6 @@ if __name__ == "__main__":
 
     args = argument_parsing()
 
-    game = Game(args.n_players, args.gpt_players, "./odissey_cards", args.play, args.points_to_win, args.print_cards)
+    game = Game(args.n_players, args.gpt_players, "../cards/odissey_cards", args.play, args.points_to_win, args.print_cards)
     
     game.simulate()
