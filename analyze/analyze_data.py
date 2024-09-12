@@ -7,6 +7,7 @@ def argument_parsing() -> Namespace:
     parser = argparse.ArgumentParser()
 
     parser.add_argument("-df", "--data_folder", type=str, help="Specify the directory from which we want to take the data", required=True)
+    parser.add_argument("-hu", "--human", action="store_true", help="Specify that the game to be analyzed are from humans")
 
     return parser.parse_args()
 
@@ -90,60 +91,90 @@ def create_analysis(path_to_excel: str, path_to_save: str):
         votes_when_not_narrator_stats.to_excel(writer, sheet_name='Votes When Not Narrator', index=True)
         correct_votes_stats.to_excel(writer, sheet_name='Correct Votes Stats', index=True)
 
-def compute_combined_averages(file_list, sheet_name, value_cols):
+def compute_combined_averages(file_list, sheet_name, value_cols, human_game):
     combined_data = pd.DataFrame()
 
     for file_path in file_list:
         df = pd.read_excel(file_path, sheet_name=sheet_name)
         player_type_col = df.columns[0] 
         combined_data = pd.concat([combined_data, df], ignore_index=True)
+    
+    if not human_game:
+        gpt_players = combined_data[combined_data[player_type_col].str.match(r'^GPT Bot', case=False, na=False)]
+        bot_players = combined_data[combined_data[player_type_col].str.match(r'^Bot(?!.*GPT)', case=False, na=False)]
 
-    gpt_players = combined_data[combined_data[player_type_col].str.match(r'^GPT Bot', case=False, na=False)]
-    bot_players = combined_data[combined_data[player_type_col].str.match(r'^Bot(?!.*GPT)', case=False, na=False)]
+        gpt_averages = gpt_players[value_cols].mean().to_frame(name='GPT Average')
+        bot_averages = bot_players[value_cols].mean().to_frame(name='Bot Average')
+        combined_averages = pd.concat([gpt_averages, bot_averages], axis=1)
 
-    gpt_averages = gpt_players[value_cols].mean().to_frame(name='GPT Average')
-    bot_averages = bot_players[value_cols].mean().to_frame(name='Bot Average')
+    else:
+        artificial_players = combined_data[combined_data[player_type_col] == 'Artificial Player']
+        human_players = combined_data[combined_data[player_type_col] != 'Artificial Player']
 
-    combined_averages = pd.concat([gpt_averages, bot_averages], axis=1)
+        artificial_averages = artificial_players[value_cols].mean().to_frame(name='Artificial Player Average')
+        human_averages = human_players[value_cols].mean().to_frame(name='Human Average')
+
+        combined_averages = pd.concat([artificial_averages, human_averages], axis=1)
+
     return combined_averages
 
-def compute_winners_stats(original_files):
+def compute_winners_stats(original_files, human_game):
     tot_gpt_winners = 0
     tot_bot_winners = 0
 
-    for file_path in original_files:
-        df = pd.read_excel(file_path, sheet_name = "Winners")
-        gpt_players = df[df["Player"].str.match(r'^GPT Bot', case=False, na=False)]
-        bot_players = df[df["Player"].str.match(r'^Bot(?!.*GPT)', case=False, na=False)]
+    if not human_game:
+        for file_path in original_files:
+            df = pd.read_excel(file_path, sheet_name = "Winners")
+            gpt_players = df[df["Player"].str.match(r'^GPT Bot', case=False, na=False)]
+            bot_players = df[df["Player"].str.match(r'^Bot(?!.*GPT)', case=False, na=False)]
 
-        tot_gpt_winners += gpt_players["Winner"].sum()
-        tot_bot_winners += bot_players["Winner"].sum()
+            tot_gpt_winners += gpt_players["Winner"].sum()
+            tot_bot_winners += bot_players["Winner"].sum()
 
-    win_stats = {"GPT": (tot_gpt_winners/len(original_files)) * 100, "Bot": (tot_bot_winners/len(original_files)) * 100}
+        win_stats = {"GPT": (tot_gpt_winners/len(original_files)) * 100, "Bot": (tot_bot_winners/len(original_files)) * 100}
+
+    else:
+        tot_artificial_winners = 0
+        tot_human_winners = 0
+
+        for file_path in original_files:
+            df = pd.read_excel(file_path, sheet_name="Winners")
+            artificial_players = df[df["Player"] == "Artificial Player"]
+            human_players = df[df["Player"] != "Artificial Player"]
+
+            tot_artificial_winners += artificial_players["Winner"].sum()
+            tot_human_winners += human_players["Winner"].sum()
+
+        win_stats = {
+            "Artificial Player": (tot_artificial_winners / len(original_files)) * 100,
+            "Human": (tot_human_winners / len(original_files)) * 100
+        }
+
     return  pd.DataFrame(win_stats.items(), columns=['Player', 'Winner Percent'])
 
 
-def summarize(path_to_save, file_list, original_files):
+def summarize(path_to_save, file_list, original_files, human_game):
     with pd.ExcelWriter(os.path.join(path_to_save, "summarize.xlsx")) as writer:
         narrator_votes_averages = compute_combined_averages(file_list, 'Narrator Votes Stats', 
-                                                            ['percent_voted_by_all', 'percent_voted_by_none', 'percent_voted_by_someone'])
+                                                            ['percent_voted_by_all', 'percent_voted_by_none', 'percent_voted_by_someone'], human_game)
         narrator_votes_averages.to_excel(writer, sheet_name='Narrator Votes Averages')
 
         votes_not_narrator_averages = compute_combined_averages(file_list, 'Votes When Not Narrator',
-                                                                ['percent_voted_when_not_narrator'])
+                                                                ['percent_voted_when_not_narrator'], human_game)
         votes_not_narrator_averages.to_excel(writer, sheet_name='Votes Not Narrator Averages')
 
         correct_votes_averages = compute_combined_averages(file_list, 'Correct Votes Stats',
-                                                        ['percent_correct_votes_for_narrator'])
+                                                        ['percent_correct_votes_for_narrator'], human_game)
         correct_votes_averages.to_excel(writer, sheet_name='Correct Votes Averages')
 
-        win_stats = compute_winners_stats(original_files)
+        win_stats = compute_winners_stats(original_files, human_game)
         win_stats.to_excel(writer, sheet_name='Winners Statistics', index=False)
 
 if __name__ == "__main__":
 
     args = argument_parsing()
     data_folder = args.data_folder
+    human_game = args.human
 
     for dir_path, _, filenames in os.walk(data_folder):
         analysis_files = []
@@ -157,6 +188,6 @@ if __name__ == "__main__":
             original_files.append(path_to_file)
 
         if len(analysis_files) != 0:
-            summarize(dir_path, analysis_files, original_files)
+            summarize(dir_path, analysis_files, original_files, human_game)
 
         

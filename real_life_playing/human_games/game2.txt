@@ -1,6 +1,6 @@
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 1, 61, 67, 8, 80]
-Eleonora  has the following cards: [75, 44, 37, 39, 63, 19]
+Giuseppe has the following cards: [3, 1, 61, 67, 8, 80]
+Eleonora has the following cards: [75, 44, 37, 39, 63, 19]
 Artificial Player has the following cards: [14, 26, 25, 49, 4, 13]
 
 
@@ -34,8 +34,8 @@ Eleonora: 4
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 1, 61, 67, 15, 80]
-Eleonora  has the following cards: [27, 44, 37, 39, 63, 19]
+Giuseppe has the following cards: [3, 1, 61, 67, 15, 80]
+Eleonora has the following cards: [27, 44, 37, 39, 63, 19]
 Artificial Player has the following cards: [14, 26, 48, 49, 4, 13]
 
 
@@ -69,8 +69,8 @@ Eleonora: 6
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 1, 61, 67, 76, 80]
-Eleonora  has the following cards: [27, 44, 37, 17, 63, 19]
+Giuseppe has the following cards: [3, 1, 61, 67, 76, 80]
+Eleonora has the following cards: [27, 44, 37, 17, 63, 19]
 Artificial Player has the following cards: [14, 26, 48, 23, 4, 13]
 
 
@@ -104,8 +104,8 @@ Eleonora: 6
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 1, 83, 67, 76, 80]
-Eleonora  has the following cards: [27, 51, 37, 17, 63, 19]
+Giuseppe has the following cards: [3, 1, 83, 67, 76, 80]
+Eleonora has the following cards: [27, 51, 37, 17, 63, 19]
 Artificial Player has the following cards: [28, 26, 48, 23, 4, 13]
 
 
@@ -139,8 +139,8 @@ Eleonora: 10
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 41, 83, 67, 76, 80]
-Eleonora  has the following cards: [27, 51, 37, 17, 42, 19]
+Giuseppe has the following cards: [3, 41, 83, 67, 76, 80]
+Eleonora has the following cards: [27, 51, 37, 17, 42, 19]
 Artificial Player has the following cards: [28, 6, 48, 23, 4, 13]
 
 
@@ -174,8 +174,8 @@ Eleonora: 12
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 41, 83, 67, 35, 80]
-Eleonora  has the following cards: [27, 51, 37, 17, 42, 53]
+Giuseppe has the following cards: [3, 41, 83, 67, 35, 80]
+Eleonora has the following cards: [27, 51, 37, 17, 42, 53]
 Artificial Player has the following cards: [28, 6, 48, 23, 4, 2]
 
 
@@ -209,8 +209,8 @@ Eleonora: 12
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 21, 83, 67, 35, 80]
-Eleonora  has the following cards: [77, 51, 37, 17, 42, 53]
+Giuseppe has the following cards: [3, 21, 83, 67, 35, 80]
+Eleonora has the following cards: [77, 51, 37, 17, 42, 53]
 Artificial Player has the following cards: [31, 6, 48, 23, 4, 2]
 
 
@@ -244,8 +244,8 @@ Eleonora: 16
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 52, 83, 67, 35, 80]
-Eleonora  has the following cards: [77, 51, 37, 10, 42, 53]
+Giuseppe has the following cards: [3, 52, 83, 67, 35, 80]
+Eleonora has the following cards: [77, 51, 37, 10, 42, 53]
 Artificial Player has the following cards: [31, 6, 48, 23, 60, 2]
 
 
@@ -279,8 +279,8 @@ Eleonora: 20
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [3, 52, 83, 67, 32, 80]
-Eleonora  has the following cards: [57, 51, 37, 10, 42, 53]
+Giuseppe has the following cards: [3, 52, 83, 67, 32, 80]
+Eleonora has the following cards: [57, 51, 37, 10, 42, 53]
 Artificial Player has the following cards: [31, 6, 48, 23, 60, 5]
 
 
@@ -314,8 +314,8 @@ Eleonora: 20
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [30, 52, 83, 67, 32, 80]
-Eleonora  has the following cards: [57, 51, 37, 10, 71, 53]
+Giuseppe has the following cards: [30, 52, 83, 67, 32, 80]
+Eleonora has the following cards: [57, 51, 37, 10, 71, 53]
 Artificial Player has the following cards: [31, 6, 48, 23, 56, 5]
 
 
@@ -349,8 +349,8 @@ Eleonora: 24
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [30, 52, 83, 59, 32, 80]
-Eleonora  has the following cards: [57, 72, 37, 10, 71, 53]
+Giuseppe has the following cards: [30, 52, 83, 59, 32, 80]
+Eleonora has the following cards: [57, 72, 37, 10, 71, 53]
 Artificial Player has the following cards: [31, 81, 48, 23, 56, 5]
 
 
@@ -384,8 +384,8 @@ Eleonora: 26
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [30, 52, 83, 82, 32, 80]
-Eleonora  has the following cards: [57, 72, 65, 10, 71, 53]
+Giuseppe has the following cards: [30, 52, 83, 82, 32, 80]
+Eleonora has the following cards: [57, 72, 65, 10, 71, 53]
 Artificial Player has the following cards: [31, 7, 48, 23, 56, 5]
 
 
@@ -419,8 +419,8 @@ Eleonora: 26
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [45, 52, 83, 82, 32, 80]
-Eleonora  has the following cards: [57, 72, 65, 10, 43, 53]
+Giuseppe has the following cards: [45, 52, 83, 82, 32, 80]
+Eleonora has the following cards: [57, 72, 65, 10, 43, 53]
 Artificial Player has the following cards: [31, 50, 48, 23, 56, 5]
 
 
@@ -454,8 +454,8 @@ Eleonora: 28
 ===================================
 
 PLAYERS CARDS:
-Giuseppe has the following cards: [45, 52, 83, 82, 32, 16]
-Eleonora  has the following cards: [57, 72, 65, 10, 38, 53]
+Giuseppe has the following cards: [45, 52, 83, 82, 32, 16]
+Eleonora has the following cards: [57, 72, 65, 10, 38, 53]
 Artificial Player has the following cards: [31, 50, 48, 55, 56, 5]
 
 
@@ -487,3 +487,5 @@ Giuseppe: 14
 Eleonora: 30
 
 ===================================
+
+Eleonora has won!

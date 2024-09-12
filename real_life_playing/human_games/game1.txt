@@ -1,6 +1,6 @@
 PLAYERS CARDS:
-Camilla has the following cards: [18, 55, 70, 58, 35, 65]
-Francesco  has the following cards: [37, 71, 20, 74, 59, 78]
+Camilla has the following cards: [18, 55, 70, 58, 35, 65]
+Francesco has the following cards: [37, 71, 20, 74, 59, 78]
 Artificial Player has the following cards: [75, 45, 81, 66, 80, 51]
 
 
@@ -13,13 +13,11 @@ Artificial Player selected a card with caption: "mystical serenity amidst chaos.
 
 Camilla is selecting a card...
 Francesco is selecting a card...
-Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
 Francesco is voting...
-Artificial Player is voting...
 
 ---------------VOTES---------------
 
@@ -36,8 +34,8 @@ Francesco: 4
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [68, 55, 70, 58, 35, 65]
-Francesco  has the following cards: [37, 71, 20, 74, 59, 26]
+Camilla has the following cards: [68, 55, 70, 58, 35, 65]
+Francesco has the following cards: [37, 71, 20, 74, 59, 26]
 Artificial Player has the following cards: [75, 45, 81, 66, 80, 40]
 
 
@@ -49,13 +47,11 @@ Francesco selected a card with caption: "Freedom and constraints."
 ----------SELECTION PHASE----------
 
 Camilla is selecting a card...
-Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
-Francesco is voting...
 Artificial Player is voting...
 
 ---------------VOTES---------------
@@ -73,8 +69,8 @@ Francesco: 4
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [68, 55, 62, 58, 35, 65]
-Francesco  has the following cards: [46, 71, 20, 74, 59, 26]
+Camilla has the following cards: [68, 55, 62, 58, 35, 65]
+Francesco has the following cards: [46, 71, 20, 74, 59, 26]
 Artificial Player has the following cards: [75, 45, 81, 66, 73, 40]
 
 
@@ -85,13 +81,11 @@ Camilla selected a card with caption: "A dream that becomes a nightmare."
 
 ----------SELECTION PHASE----------
 
-Camilla is selecting a card...
 Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
-Camilla is voting...
 Francesco is voting...
 Artificial Player is voting...
 
@@ -110,8 +104,8 @@ Francesco: 6
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [68, 55, 48, 58, 35, 65]
-Francesco  has the following cards: [46, 71, 20, 11, 59, 26]
+Camilla has the following cards: [68, 55, 48, 58, 35, 65]
+Francesco has the following cards: [46, 71, 20, 11, 59, 26]
 Artificial Player has the following cards: [75, 45, 69, 66, 73, 40]
 
 
@@ -124,13 +118,11 @@ Artificial Player selected a card with caption: "whimsical, contemplative, and c
 
 Camilla is selecting a card...
 Francesco is selecting a card...
-Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
 Francesco is voting...
-Artificial Player is voting...
 
 ---------------VOTES---------------
 
@@ -147,8 +139,8 @@ Francesco: 8
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [68, 55, 48, 3, 35, 65]
-Francesco  has the following cards: [46, 71, 20, 11, 59, 24]
+Camilla has the following cards: [68, 55, 48, 3, 35, 65]
+Francesco has the following cards: [46, 71, 20, 11, 59, 24]
 Artificial Player has the following cards: [75, 45, 23, 66, 73, 40]
 
 
@@ -160,13 +152,11 @@ Francesco selected a card with caption: "Modernity and progress."
 ----------SELECTION PHASE----------
 
 Camilla is selecting a card...
-Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
-Francesco is voting...
 Artificial Player is voting...
 
 ---------------VOTES---------------
@@ -184,8 +174,8 @@ Francesco: 11
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [31, 55, 48, 3, 35, 65]
-Francesco  has the following cards: [49, 71, 20, 11, 59, 24]
+Camilla has the following cards: [31, 55, 48, 3, 35, 65]
+Francesco has the following cards: [49, 71, 20, 11, 59, 24]
 Artificial Player has the following cards: [22, 45, 23, 66, 73, 40]
 
 
@@ -196,13 +186,11 @@ Camilla selected a card with caption: "Despair."
 
 ----------SELECTION PHASE----------
 
-Camilla is selecting a card...
 Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
-Camilla is voting...
 Francesco is voting...
 Artificial Player is voting...
 
@@ -221,8 +209,8 @@ Francesco: 13
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [31, 55, 48, 3, 44, 65]
-Francesco  has the following cards: [49, 1, 20, 11, 59, 24]
+Camilla has the following cards: [31, 55, 48, 3, 44, 65]
+Francesco has the following cards: [49, 1, 20, 11, 59, 24]
 Artificial Player has the following cards: [22, 45, 23, 66, 73, 47]
 
 
@@ -235,13 +223,11 @@ Artificial Player selected a card with caption: "Serene contemplation amidst nat
 
 Camilla is selecting a card...
 Francesco is selecting a card...
-Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
 Francesco is voting...
-Artificial Player is voting...
 
 ---------------VOTES---------------
 
@@ -258,8 +244,8 @@ Francesco: 17
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [84, 55, 48, 3, 44, 65]
-Francesco  has the following cards: [49, 13, 20, 11, 59, 24]
+Camilla has the following cards: [84, 55, 48, 3, 44, 65]
+Francesco has the following cards: [49, 13, 20, 11, 59, 24]
 Artificial Player has the following cards: [22, 45, 23, 43, 73, 47]
 
 
@@ -271,13 +257,11 @@ Francesco selected a card with caption: "Exploration."
 ----------SELECTION PHASE----------
 
 Camilla is selecting a card...
-Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
-Francesco is voting...
 Artificial Player is voting...
 
 ---------------VOTES---------------
@@ -295,8 +279,8 @@ Francesco: 20
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [84, 55, 48, 3, 57, 65]
-Francesco  has the following cards: [49, 13, 20, 25, 59, 24]
+Camilla has the following cards: [84, 55, 48, 3, 57, 65]
+Francesco has the following cards: [49, 13, 20, 25, 59, 24]
 Artificial Player has the following cards: [22, 2, 23, 43, 73, 47]
 
 
@@ -307,13 +291,11 @@ Camilla selected a card with caption: "Blind courage."
 
 ----------SELECTION PHASE----------
 
-Camilla is selecting a card...
 Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
-Camilla is voting...
 Francesco is voting...
 Artificial Player is voting...
 
@@ -332,8 +314,8 @@ Francesco: 23
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [64, 55, 48, 3, 57, 65]
-Francesco  has the following cards: [49, 13, 52, 25, 59, 24]
+Camilla has the following cards: [64, 55, 48, 3, 57, 65]
+Francesco has the following cards: [49, 13, 52, 25, 59, 24]
 Artificial Player has the following cards: [29, 2, 23, 43, 73, 47]
 
 
@@ -346,13 +328,11 @@ Artificial Player selected a card with caption: "Radiant serenity amidst verdant
 
 Camilla is selecting a card...
 Francesco is selecting a card...
-Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
 Francesco is voting...
-Artificial Player is voting...
 
 ---------------VOTES---------------
 
@@ -369,8 +349,8 @@ Francesco: 25
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [64, 36, 48, 3, 57, 65]
-Francesco  has the following cards: [49, 13, 52, 25, 59, 67]
+Camilla has the following cards: [64, 36, 48, 3, 57, 65]
+Francesco has the following cards: [49, 13, 52, 25, 59, 67]
 Artificial Player has the following cards: [29, 16, 23, 43, 73, 47]
 
 
@@ -382,13 +362,11 @@ Francesco selected a card with caption: "Loves and opposites."
 ----------SELECTION PHASE----------
 
 Camilla is selecting a card...
-Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
 Camilla is voting...
-Francesco is voting...
 Artificial Player is voting...
 
 ---------------VOTES---------------
@@ -406,8 +384,8 @@ Francesco: 28
 ===================================
 
 PLAYERS CARDS:
-Camilla has the following cards: [8, 36, 48, 3, 57, 65]
-Francesco  has the following cards: [49, 13, 52, 25, 33, 67]
+Camilla has the following cards: [8, 36, 48, 3, 57, 65]
+Francesco has the following cards: [49, 13, 52, 25, 33, 67]
 Artificial Player has the following cards: [77, 16, 23, 43, 73, 47]
 
 
@@ -418,13 +396,11 @@ Camilla selected a card with caption: "Once upon a time."
 
 ----------SELECTION PHASE----------
 
-Camilla is selecting a card...
 Francesco is selecting a card...
 Artificial Player is selecting a card...
 
 ----------VOTING PHASE----------
 
-Camilla is voting...
 Francesco is voting...
 Artificial Player is voting...
 
@@ -441,3 +417,5 @@ Camilla: 14
 Francesco: 30
 
 ===================================
+
+Francesco has won!
