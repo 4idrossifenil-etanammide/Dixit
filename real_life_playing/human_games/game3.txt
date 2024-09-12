@@ -1,0 +1,596 @@
+PLAYERS CARDS:
+Massimo has the following cards: [49, 3, 51, 23, 55, 14]
+Sara has the following cards: [5, 77, 61, 43, 80, 42]
+Artificial Player has the following cards: [60, 48, 67, 44, 6, 39]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Serene contemplation amidst surrealism."
+
+----------SELECTION PHASE----------
+
+Massimo is selecting a card...
+Sara is selecting a card...
+
+----------VOTING PHASE----------
+
+Massimo is voting...
+Sara is voting...
+
+---------------VOTES---------------
+
+Massimo with card 51 has been voted by no one
+Sara with card 80 has been voted by Massimo
+Artificial Player with card 67 has been voted by Sara
+
+---------------POINTS---------------
+
+Artificial Player: 3
+Massimo: 0
+Sara: 4
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 3, 2, 23, 55, 14]
+Sara has the following cards: [5, 77, 61, 43, 21, 42]
+Artificial Player has the following cards: [60, 48, 4, 44, 6, 39]
+
+
+----------NARRATOR PHASE----------
+
+Massimo is giving a caption...
+Massimo selected a card with caption: "Envy."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Sara is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Sara is voting...
+
+---------------VOTES---------------
+
+Massimo with card 3 has been voted by no one
+Sara with card 61 has been voted by Artificial Player
+Artificial Player with card 4 has been voted by Sara
+
+---------------POINTS---------------
+
+Artificial Player: 5
+Massimo: 0
+Sara: 6
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 17, 2, 23, 55, 14]
+Sara has the following cards: [5, 77, 71, 43, 21, 42]
+Artificial Player has the following cards: [60, 48, 35, 44, 6, 39]
+
+
+----------NARRATOR PHASE----------
+
+Sara is giving a caption...
+Sara selected a card with caption: "Shelter."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Massimo is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Massimo is voting...
+
+---------------VOTES---------------
+
+Massimo with card 55 has been voted by Artificial Player
+Sara with card 43 has been voted by Massimo
+Artificial Player with card 35 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 5
+Massimo: 4
+Sara: 9
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 17, 2, 23, 7, 14]
+Sara has the following cards: [5, 77, 71, 30, 21, 42]
+Artificial Player has the following cards: [60, 48, 15, 44, 6, 39]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Mystic, enigmatic, intricate."
+
+----------SELECTION PHASE----------
+
+Sara is selecting a card...
+Massimo is selecting a card...
+
+----------VOTING PHASE----------
+
+Sara is voting...
+Massimo is voting...
+
+---------------VOTES---------------
+
+Massimo with card 2 has been voted by no one
+Sara with card 77 has been voted by no one
+Artificial Player with card 39 has been voted by Sara, Massimo
+
+---------------POINTS---------------
+
+Artificial Player: 5
+Massimo: 6
+Sara: 11
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 17, 28, 23, 7, 14]
+Sara has the following cards: [5, 41, 71, 30, 21, 42]
+Artificial Player has the following cards: [60, 48, 15, 44, 6, 27]
+
+
+----------NARRATOR PHASE----------
+
+Massimo is giving a caption...
+Massimo selected a card with caption: "Loving a selfish person."
+
+----------SELECTION PHASE----------
+
+Sara is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Sara is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Massimo with card 17 has been voted by no one
+Sara with card 21 has been voted by Artificial Player
+Artificial Player with card 27 has been voted by Sara
+
+---------------POINTS---------------
+
+Artificial Player: 7
+Massimo: 6
+Sara: 13
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 81, 28, 23, 7, 14]
+Sara has the following cards: [5, 41, 71, 30, 75, 42]
+Artificial Player has the following cards: [60, 48, 15, 44, 6, 59]
+
+
+----------NARRATOR PHASE----------
+
+Sara is giving a caption...
+Sara selected a card with caption: "Temptations."
+
+----------SELECTION PHASE----------
+
+Massimo is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Massimo is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Massimo with card 28 has been voted by no one
+Sara with card 42 has been voted by Artificial Player, Massimo
+Artificial Player with card 48 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 9
+Massimo: 8
+Sara: 13
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 81, 19, 23, 7, 14]
+Sara has the following cards: [5, 41, 71, 30, 75, 76]
+Artificial Player has the following cards: [60, 13, 15, 44, 6, 59]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Whimsical serenity, surrealism and feline connection."
+
+----------SELECTION PHASE----------
+
+Massimo is selecting a card...
+Sara is selecting a card...
+
+----------VOTING PHASE----------
+
+Massimo is voting...
+Sara is voting...
+
+---------------VOTES---------------
+
+Massimo with card 14 has been voted by Sara
+Sara with card 75 has been voted by no one
+Artificial Player with card 59 has been voted by Massimo
+
+---------------POINTS---------------
+
+Artificial Player: 12
+Massimo: 12
+Sara: 13
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [49, 81, 19, 23, 7, 63]
+Sara has the following cards: [5, 41, 71, 30, 1, 76]
+Artificial Player has the following cards: [60, 13, 15, 44, 6, 31]
+
+
+----------NARRATOR PHASE----------
+
+Massimo is giving a caption...
+Massimo selected a card with caption: "Salvation."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Sara is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Sara is voting...
+
+---------------VOTES---------------
+
+Massimo with card 49 has been voted by no one
+Sara with card 71 has been voted by Artificial Player
+Artificial Player with card 13 has been voted by Sara
+
+---------------POINTS---------------
+
+Artificial Player: 14
+Massimo: 12
+Sara: 15
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [37, 81, 19, 23, 7, 63]
+Sara has the following cards: [5, 41, 25, 30, 1, 76]
+Artificial Player has the following cards: [60, 26, 15, 44, 6, 31]
+
+
+----------NARRATOR PHASE----------
+
+Sara is giving a caption...
+Sara selected a card with caption: "Get lost."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Massimo is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Massimo is voting...
+
+---------------VOTES---------------
+
+Massimo with card 81 has been voted by no one
+Sara with card 30 has been voted by Artificial Player, Massimo
+Artificial Player with card 44 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 16
+Massimo: 14
+Sara: 15
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [37, 8, 19, 23, 7, 63]
+Sara has the following cards: [5, 41, 25, 38, 1, 76]
+Artificial Player has the following cards: [60, 26, 15, 56, 6, 31]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Mystical, celestial, transcendent."
+
+----------SELECTION PHASE----------
+
+Sara is selecting a card...
+Massimo is selecting a card...
+
+----------VOTING PHASE----------
+
+Sara is voting...
+Massimo is voting...
+
+---------------VOTES---------------
+
+Massimo with card 7 has been voted by no one
+Sara with card 76 has been voted by Massimo
+Artificial Player with card 26 has been voted by Sara
+
+---------------POINTS---------------
+
+Artificial Player: 19
+Massimo: 14
+Sara: 19
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [37, 8, 19, 23, 10, 63]
+Sara has the following cards: [5, 41, 25, 38, 1, 53]
+Artificial Player has the following cards: [60, 57, 15, 56, 6, 31]
+
+
+----------NARRATOR PHASE----------
+
+Massimo is giving a caption...
+Massimo selected a card with caption: "Infamous kiss."
+
+----------SELECTION PHASE----------
+
+Sara is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Sara is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Massimo with card 37 has been voted by Artificial Player, Sara
+Sara with card 41 has been voted by no one
+Artificial Player with card 15 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 21
+Massimo: 14
+Sara: 21
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [32, 8, 19, 23, 10, 63]
+Sara has the following cards: [5, 50, 25, 38, 1, 53]
+Artificial Player has the following cards: [60, 57, 65, 56, 6, 31]
+
+
+----------NARRATOR PHASE----------
+
+Sara is giving a caption...
+Sara selected a card with caption: "Challenge fate."
+
+----------SELECTION PHASE----------
+
+Massimo is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Massimo is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Massimo with card 32 has been voted by no one
+Sara with card 50 has been voted by Artificial Player, Massimo
+Artificial Player with card 57 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 23
+Massimo: 16
+Sara: 21
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [52, 8, 19, 23, 10, 63]
+Sara has the following cards: [5, 16, 25, 38, 1, 53]
+Artificial Player has the following cards: [60, 72, 65, 56, 6, 31]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Mystical serenity amidst time's embrace."
+
+----------SELECTION PHASE----------
+
+Massimo is selecting a card...
+Sara is selecting a card...
+
+----------VOTING PHASE----------
+
+Massimo is voting...
+Sara is voting...
+
+---------------VOTES---------------
+
+Massimo with card 63 has been voted by no one
+Sara with card 25 has been voted by no one
+Artificial Player with card 6 has been voted by Massimo, Sara
+
+---------------POINTS---------------
+
+Artificial Player: 23
+Massimo: 18
+Sara: 23
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [52, 8, 19, 23, 10, 82]
+Sara has the following cards: [5, 16, 45, 38, 1, 53]
+Artificial Player has the following cards: [60, 72, 65, 56, 83, 31]
+
+
+----------NARRATOR PHASE----------
+
+Massimo is giving a caption...
+Massimo selected a card with caption: "Difficult beauty."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Sara is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Sara is voting...
+
+---------------VOTES---------------
+
+Massimo with card 19 has been voted by Sara
+Sara with card 5 has been voted by Artificial Player
+Artificial Player with card 72 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 23
+Massimo: 21
+Sara: 27
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [52, 8, 58, 23, 10, 82]
+Sara has the following cards: [64, 16, 45, 38, 1, 53]
+Artificial Player has the following cards: [60, 62, 65, 56, 83, 31]
+
+
+----------NARRATOR PHASE----------
+
+Sara is giving a caption...
+Sara selected a card with caption: "Mother nature."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Massimo is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Massimo is voting...
+
+---------------VOTES---------------
+
+Massimo with card 10 has been voted by no one
+Sara with card 1 has been voted by Artificial Player, Massimo
+Artificial Player with card 65 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 25
+Massimo: 23
+Sara: 27
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [52, 8, 58, 23, 47, 82]
+Sara has the following cards: [64, 16, 45, 38, 78, 53]
+Artificial Player has the following cards: [60, 62, 74, 56, 83, 31]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Whimsical, playful, enchanting."
+
+----------SELECTION PHASE----------
+
+Sara is selecting a card...
+Massimo is selecting a card...
+
+----------VOTING PHASE----------
+
+Sara is voting...
+Massimo is voting...
+
+---------------VOTES---------------
+
+Massimo with card 82 has been voted by no one
+Sara with card 45 has been voted by no one
+Artificial Player with card 60 has been voted by Massimo, Sara
+
+---------------POINTS---------------
+
+Artificial Player: 25
+Massimo: 25
+Sara: 29
+
+===================================
+
+PLAYERS CARDS:
+Massimo has the following cards: [52, 8, 58, 23, 47, 68]
+Sara has the following cards: [64, 16, 12, 38, 78, 53]
+Artificial Player has the following cards: [40, 62, 74, 56, 83, 31]
+
+
+----------NARRATOR PHASE----------
+
+Massimo is giving a caption...
+Massimo selected a card with caption: "Already given."
+
+----------SELECTION PHASE----------
+
+Sara is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Sara is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Massimo with card 23 has been voted by Artificial Player, Sara
+Sara with card 64 has been voted by no one
+Artificial Player with card 83 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 27
+Massimo: 25
+Sara: 31
+
+===================================
+
+Sara has won!
