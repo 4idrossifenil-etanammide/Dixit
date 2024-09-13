@@ -1,0 +1,559 @@
+PLAYERS CARDS:
+Claudia has the following cards: [61, 80, 68, 24, 52, 67]
+Giordano has the following cards: [12, 39, 77, 28, 8, 42]
+Emanuele has the following cards: [37, 41, 58, 50, 33, 51]
+Artificial Player has the following cards: [3, 38, 4, 35, 55, 43]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Majestic serenity amidst winter's embrace.."
+
+----------SELECTION PHASE----------
+
+Emanuele is selecting a card...
+Giordano is selecting a card...
+Claudia is selecting a card...
+
+----------VOTING PHASE----------
+
+Emanuele is voting...
+Giordano is voting...
+Claudia is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 37 has been voted by no one
+Giordano with card 28 has been voted by no one
+Claudia with card 80 has been voted by Giordano, Emanuele
+Artificial Player with card 35 has been voted by Claudia
+
+---------------POINTS---------------
+
+Artificial Player: 3
+Emanuele: 0
+Giordano: 0
+Claudia: 5
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [61, 60, 68, 24, 52, 67]
+Giordano has the following cards: [12, 39, 77, 7, 8, 42]
+Emanuele has the following cards: [11, 41, 58, 50, 33, 51]
+Artificial Player has the following cards: [3, 38, 4, 46, 55, 43]
+
+
+----------NARRATOR PHASE----------
+
+Giordano is giving a caption...
+Giordano selected a card with caption: "In the blue painted blue."
+
+----------SELECTION PHASE----------
+
+Emanuele is selecting a card...
+Artificial Player is selecting a card...
+Claudia is selecting a card...
+
+----------VOTING PHASE----------
+
+Emanuele is voting...
+Artificial Player is voting...
+Claudia is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 11 has been voted by no one
+Giordano with card 8 has been voted by Emanuele, Claudia
+Claudia with card 52 has been voted by Artificial Player
+Artificial Player with card 4 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 3
+Emanuele: 3
+Giordano: 3
+Claudia: 9
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [61, 60, 68, 24, 66, 67]
+Giordano has the following cards: [12, 39, 77, 7, 17, 42]
+Emanuele has the following cards: [27, 41, 58, 50, 33, 51]
+Artificial Player has the following cards: [3, 38, 13, 46, 55, 43]
+
+
+----------NARRATOR PHASE----------
+
+Claudia is giving a caption...
+Claudia selected a card with caption: "The desolation."
+
+----------SELECTION PHASE----------
+
+Emanuele is selecting a card...
+Artificial Player is selecting a card...
+Giordano is selecting a card...
+
+----------VOTING PHASE----------
+
+Emanuele is voting...
+Artificial Player is voting...
+Giordano is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 58 has been voted by Artificial Player
+Giordano with card 17 has been voted by Emanuele
+Claudia with card 66 has been voted by no one
+Artificial Player with card 13 has been voted by Giordano
+
+---------------POINTS---------------
+
+Artificial Player: 5
+Emanuele: 5
+Giordano: 5
+Claudia: 9
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [61, 60, 68, 24, 14, 67]
+Giordano has the following cards: [12, 39, 77, 7, 21, 42]
+Emanuele has the following cards: [27, 41, 82, 50, 33, 51]
+Artificial Player has the following cards: [3, 38, 83, 46, 55, 43]
+
+
+----------NARRATOR PHASE----------
+
+Emanuele is giving a caption...
+Emanuele selected a card with caption: "Commit to feelings."
+
+----------SELECTION PHASE----------
+
+Claudia is selecting a card...
+Artificial Player is selecting a card...
+Giordano is selecting a card...
+
+----------VOTING PHASE----------
+
+Claudia is voting...
+Artificial Player is voting...
+Giordano is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 33 has been voted by Artificial Player, Giordano, Claudia
+Giordano with card 77 has been voted by no one
+Claudia with card 61 has been voted by no one
+Artificial Player with card 55 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 7
+Emanuele: 5
+Giordano: 7
+Claudia: 11
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 24, 14, 67]
+Giordano has the following cards: [12, 39, 78, 7, 21, 42]
+Emanuele has the following cards: [27, 41, 82, 50, 74, 51]
+Artificial Player has the following cards: [3, 38, 83, 46, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Surrealistic, contemplative, enigmatic."
+
+----------SELECTION PHASE----------
+
+Claudia is selecting a card...
+Emanuele is selecting a card...
+Giordano is selecting a card...
+
+----------VOTING PHASE----------
+
+Claudia is voting...
+Emanuele is voting...
+Giordano is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 82 has been voted by Giordano, Claudia
+Giordano with card 39 has been voted by no one
+Claudia with card 24 has been voted by no one
+Artificial Player with card 46 has been voted by Emanuele
+
+---------------POINTS---------------
+
+Artificial Player: 10
+Emanuele: 10
+Giordano: 7
+Claudia: 11
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 10, 14, 67]
+Giordano has the following cards: [12, 31, 78, 7, 21, 42]
+Emanuele has the following cards: [27, 41, 44, 50, 74, 51]
+Artificial Player has the following cards: [3, 38, 83, 71, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Giordano is giving a caption...
+Giordano selected a card with caption: "The power of life."
+
+----------SELECTION PHASE----------
+
+Claudia is selecting a card...
+Emanuele is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Claudia is voting...
+Emanuele is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 41 has been voted by no one
+Giordano with card 78 has been voted by Claudia, Emanuele, Artificial Player
+Claudia with card 10 has been voted by no one
+Artificial Player with card 71 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 12
+Emanuele: 12
+Giordano: 7
+Claudia: 13
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 56, 14, 67]
+Giordano has the following cards: [12, 31, 2, 7, 21, 42]
+Emanuele has the following cards: [27, 79, 44, 50, 74, 51]
+Artificial Player has the following cards: [3, 38, 83, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Claudia is giving a caption...
+Claudia selected a card with caption: "Childhood."
+
+----------SELECTION PHASE----------
+
+Giordano is selecting a card...
+Emanuele is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Giordano is voting...
+Emanuele is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 74 has been voted by Giordano
+Giordano with card 42 has been voted by Artificial Player
+Claudia with card 14 has been voted by no one
+Artificial Player with card 3 has been voted by Emanuele
+
+---------------POINTS---------------
+
+Artificial Player: 14
+Emanuele: 14
+Giordano: 9
+Claudia: 13
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 56, 5, 67]
+Giordano has the following cards: [12, 31, 2, 7, 21, 22]
+Emanuele has the following cards: [27, 79, 44, 50, 19, 51]
+Artificial Player has the following cards: [62, 38, 83, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Emanuele is giving a caption...
+Emanuele selected a card with caption: "The golden times."
+
+----------SELECTION PHASE----------
+
+Giordano is selecting a card...
+Claudia is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Giordano is voting...
+Claudia is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 19 has been voted by Giordano, Claudia
+Giordano with card 31 has been voted by Artificial Player
+Claudia with card 56 has been voted by no one
+Artificial Player with card 83 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 14
+Emanuele: 17
+Giordano: 13
+Claudia: 16
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 59, 5, 67]
+Giordano has the following cards: [12, 40, 2, 7, 21, 22]
+Emanuele has the following cards: [27, 79, 44, 50, 75, 51]
+Artificial Player has the following cards: [62, 38, 72, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Curiosity, contemplative, sensory.."
+
+----------SELECTION PHASE----------
+
+Giordano is selecting a card...
+Claudia is selecting a card...
+Emanuele is selecting a card...
+
+----------VOTING PHASE----------
+
+Giordano is voting...
+Claudia is voting...
+Emanuele is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 75 has been voted by no one
+Giordano with card 22 has been voted by Emanuele
+Claudia with card 59 has been voted by no one
+Artificial Player with card 38 has been voted by Claudia, Giordano
+
+---------------POINTS---------------
+
+Artificial Player: 17
+Emanuele: 17
+Giordano: 17
+Claudia: 19
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 45, 5, 67]
+Giordano has the following cards: [12, 40, 34, 7, 21, 2]
+Emanuele has the following cards: [27, 79, 44, 50, 49, 51]
+Artificial Player has the following cards: [62, 15, 72, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Giordano is giving a caption...
+Giordano selected a card with caption: "Eternal return."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Claudia is selecting a card...
+Emanuele is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Claudia is voting...
+Emanuele is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 44 has been voted by Artificial Player
+Giordano with card 2 has been voted by Cluaida
+Claudia with card 45 has been voted by no one
+Artificial Player with card 15 has been voted by Emanuele
+
+---------------POINTS---------------
+
+Artificial Player: 18
+Emanuele: 18
+Giordano: 20
+Claudia: 22
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [45, 60, 68, 45, 5, 67]
+Giordano has the following cards: [12, 40, 34, 7, 21, 2]
+Emanuele has the following cards: [27, 79, 44, 50, 49, 51]
+Artificial Player has the following cards: [62, 15, 72, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Giordano is giving a caption...
+Giordano selected a card with caption: "Eternal return."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Claudia is selecting a card...
+Emanuele is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Claudia is voting...
+Emanuele is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 44 has been voted by Artificial Player
+Giordano with card 2 has been voted by Cluaida
+Claudia with card 45 has been voted by no one
+Artificial Player with card 15 has been voted by Emanuele
+
+---------------POINTS---------------
+
+Artificial Player: 18
+Emanuele: 18
+Giordano: 20
+Claudia: 22
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [81, 60, 68, 45, 5, 67]
+Giordano has the following cards: [12, 40, 34, 7, 21, 69]
+Emanuele has the following cards: [27, 79, 73, 50, 49, 51]
+Artificial Player has the following cards: [62, 29, 72, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Claudia is giving a caption...
+Claudia selected a card with caption: "The time that was."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Giordano is selecting a card...
+Emanuele is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Giordano is voting...
+Emanuele is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 73 has been voted by Artificial Player
+Giordano with card 12 has been voted by no one
+Claudia with card 45 has been voted by Giordano, Emanuele
+Artificial Player with card 72 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 18
+Emanuele: 22
+Giordano: 23
+Claudia: 25
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [81, 60, 68, 36, 5, 67]
+Giordano has the following cards: [76, 40, 34, 7, 21, 69]
+Emanuele has the following cards: [27, 79, 30, 50, 49, 51]
+Artificial Player has the following cards: [62, 29, 63, 1, 65, 43]
+
+
+----------NARRATOR PHASE----------
+
+Emanuele is giving a caption...
+Emanuele selected a card with caption: "Poor art."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Giordano is selecting a card...
+Claudia is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Giordano is voting...
+Claudia is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 79 has been voted by Artificial Player, Giordano
+Giordano with card 7 has been voted by Claudia
+Claudia with card 60 has been voted by no one
+Artificial Player with card 43 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 21
+Emanuele: 25
+Giordano: 27
+Claudia: 25
+
+===================================
+
+PLAYERS CARDS:
+Claudia has the following cards: [81, 26, 68, 36, 5, 67]
+Giordano has the following cards: [76, 40, 34, 64, 21, 69]
+Emanuele has the following cards: [27, 48, 30, 50, 49, 51]
+Artificial Player has the following cards: [62, 29, 63, 1, 65, 9]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Melancholic, surrealistic, and enigmatic."
+
+----------SELECTION PHASE----------
+
+Emanuele is selecting a card...
+Giordano is selecting a card...
+Claudia is selecting a card...
+
+----------VOTING PHASE----------
+
+Emanuele is voting...
+Giordano is voting...
+Claudia is voting...
+
+---------------VOTES---------------
+
+Emanuele with card 49 has been voted by no one
+Giordano with card 64 has been voted by no one
+Claudia with card 67 has been voted by Giordano, Emanuele
+Artificial Player with card 62 has been voted by Claudia
+
+---------------POINTS---------------
+
+Artificial Player: 24
+Emanuele: 25
+Giordano: 27
+Claudia: 30
+
+===================================
