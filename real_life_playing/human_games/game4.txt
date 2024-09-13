@@ -557,3 +557,5 @@ Giordano: 27
 Claudia: 30
 
 ===================================
+
+Claudia has won!
