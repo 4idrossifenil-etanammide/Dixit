@@ -1,0 +1,481 @@
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 62, 26, 23]
+Giuseppe has the following cards: [54, 16, 84, 20, 80, 41]
+Eleonora has the following cards: [65, 53, 47, 64, 29, 18]
+Artificial Player has the following cards: [10, 7, 60, 42, 71, 78]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Whimsical, surrealistic, introspective."
+
+----------SELECTION PHASE----------
+
+Andrea is selecting a card...
+Giuseppe is selecting a card...
+Eleonora is selecting a card...
+
+----------VOTING PHASE----------
+
+Andrea is voting...
+Giuseppe is voting...
+Eleonora is voting...
+
+---------------VOTES---------------
+
+Andrea with card 62 has been voted by Eleonora, Giuseppe
+Giuseppe with card 54 has been voted by no one
+Eleonora with card 29 has been voted by no one
+Artificial Player with card 71 has been voted by Andrea
+
+---------------POINTS---------------
+
+Artificial Player: 3
+Andrea: 5
+Giuseppe: 0
+Eleonora: 0
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 28, 26, 23]
+Giuseppe has the following cards: [39, 16, 84, 20, 80, 41]
+Eleonora has the following cards: [65, 53, 47, 64, 37, 18]
+Artificial Player has the following cards: [10, 7, 60, 42, 46, 78]
+
+
+----------NARRATOR PHASE----------
+
+Eleonora is giving a caption...
+Eleonora selected a card with caption: "Beauty beyond all limits."
+
+----------SELECTION PHASE----------
+
+Andrea is selecting a card...
+Giuseppe is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Andrea is voting...
+Giuseppe is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Andrea with card 23 has been voted by Giuseppe
+Giuseppe with card 20 has been voted by no one
+Eleonora with card 53 has been voted by Artificial Player
+Artificial Player with card 7 has been voted by Andrea
+
+---------------POINTS---------------
+
+Artificial Player: 7
+Andrea: 6
+Giuseppe: 0
+Eleonora: 3
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 28, 26, 72]
+Giuseppe has the following cards: [39, 16, 84, 33, 80, 41]
+Eleonora has the following cards: [65, 82, 47, 64, 37, 18]
+Artificial Player has the following cards: [10, 24, 60, 42, 46, 78]
+
+
+----------NARRATOR PHASE----------
+
+Andrea is giving a caption...
+Andrea selected a card with caption: "Ancient and new civilizations."
+
+----------SELECTION PHASE----------
+
+Eleonora is selecting a card...
+Giuseppe is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Eleonora is voting...
+Giuseppe is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Andrea with card 26 has been voted by Eleonora, Artificial Player
+Giuseppe with card 39 has been voted by no one
+Eleonora with card 82 has been voted by Giuseppe
+Artificial Player with card 42 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 10
+Andrea: 9
+Giuseppe: 0
+Eleonora: 7
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 28, 81, 72]
+Giuseppe has the following cards: [13, 16, 84, 33, 80, 41]
+Eleonora has the following cards: [65, 61, 47, 64, 37, 18]
+Artificial Player has the following cards: [10, 24, 60, 77, 46, 78]
+
+
+----------NARRATOR PHASE----------
+
+Giuseppe is giving a caption...
+Giuseppe selected a card with caption: "Sometimes strength doesn't matter."
+
+----------SELECTION PHASE----------
+
+Eleonora is selecting a card...
+Andrea is selecting a card...
+Artificial Player is selecting a card...
+
+----------VOTING PHASE----------
+
+Eleonora is voting...
+Andrea is voting...
+Artificial Player is voting...
+
+---------------VOTES---------------
+
+Andrea with card 81 has been voted by no one
+Giuseppe with card 41 has been voted by Andrea, Eleonora
+Eleonora with card 37 has been voted by Artificial Player
+Artificial Player with card 24 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 10
+Andrea: 12
+Giuseppe: 3
+Eleonora: 11
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 28, 17, 72]
+Giuseppe has the following cards: [13, 16, 84, 33, 80, 55]
+Eleonora has the following cards: [65, 61, 47, 64, 32, 18]
+Artificial Player has the following cards: [10, 12, 60, 77, 46, 78]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Melancholic contemplation in the form of dance."
+
+----------SELECTION PHASE----------
+
+Eleonora is selecting a card...
+Andrea is selecting a card...
+Giuseppe is selecting a card...
+
+----------VOTING PHASE----------
+
+Eleonora is voting...
+Andrea is voting...
+Giuseppe is voting...
+
+---------------VOTES---------------
+
+Andrea with card 17 has been voted by Eleonora
+Giuseppe with card 16 has been voted by Andrea
+Eleonora with card 18 has been voted by no one
+Artificial Player with card 10 has been voted by Giuseppe
+
+---------------POINTS---------------
+
+Artificial Player: 13
+Andrea: 13
+Giuseppe: 7
+Eleonora: 11
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 28, 8, 72]
+Giuseppe has the following cards: [13, 48, 84, 33, 80, 55]
+Eleonora has the following cards: [65, 61, 47, 64, 32, 52]
+Artificial Player has the following cards: [44, 12, 60, 77, 46, 78]
+
+
+----------NARRATOR PHASE----------
+
+Eleonora is giving a caption...
+Eleonora selected a card with caption: "Post-modern age."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Andrea is selecting a card...
+Giuseppe is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Andrea is voting...
+Giuseppe is voting...
+
+---------------VOTES---------------
+
+Andrea with card 28 has been voted by Artificial Player
+Giuseppe with card 13 has been voted by no one
+Eleonora with card 47 has been voted by Giuseppe, Andrea
+Artificial Player with card 46 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 13
+Andrea: 17
+Giuseppe: 10
+Eleonora: 14
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 58, 8, 72]
+Giuseppe has the following cards: [45, 48, 84, 33, 80, 55]
+Eleonora has the following cards: [65, 61, 66, 64, 32, 52]
+Artificial Player has the following cards: [44, 12, 60, 77, 50, 78]
+
+
+----------NARRATOR PHASE----------
+
+Andrea is giving a caption...
+Andrea selected a card with caption: "Magical atmosphere."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Eleonora is selecting a card...
+Giuseppe is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Eleonora is voting...
+Giuseppe is voting...
+
+---------------VOTES---------------
+
+Andrea with card 8 has been voted by Artificial Player
+Giuseppe with card 48 has been voted by Eleonora
+Eleonora with card 61 has been voted by no one
+Artificial Player with card 60 has been voted by Giuseppe
+
+---------------POINTS---------------
+
+Artificial Player: 17
+Andrea: 20
+Giuseppe: 11
+Eleonora: 14
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 58, 68, 72]
+Giuseppe has the following cards: [45, 36, 84, 33, 80, 55]
+Eleonora has the following cards: [65, 6, 66, 64, 32, 52]
+Artificial Player has the following cards: [44, 12, 5, 77, 50, 78]
+
+
+----------NARRATOR PHASE----------
+
+Giuseppe is giving a caption...
+Giuseppe selected a card with caption: "Hope is the last to die."
+
+----------SELECTION PHASE----------
+
+Artificial Player is selecting a card...
+Eleonora is selecting a card...
+Andrea is selecting a card...
+
+----------VOTING PHASE----------
+
+Artificial Player is voting...
+Eleonora is voting...
+Andrea is voting...
+
+---------------VOTES---------------
+
+Andrea with card 72 has been voted by Eleonora, Artificial Player
+Giuseppe with card 80 has been voted by no one
+Eleonora with card 66 has been voted by Andrea
+Artificial Player with card 78 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 19
+Andrea: 22
+Giuseppe: 11
+Eleonora: 16
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [25, 49, 67, 58, 68, 2]
+Giuseppe has the following cards: [45, 36, 84, 33, 75, 55]
+Eleonora has the following cards: [65, 6, 22, 64, 32, 52]
+Artificial Player has the following cards: [44, 12, 5, 77, 50, 15]
+
+
+----------NARRATOR PHASE----------
+
+Artificial Player is giving a caption...
+Artificial Player selected a card with caption: "Melancholic contemplation amidst elegance."
+
+----------SELECTION PHASE----------
+
+Giuseppe is selecting a card...
+Eleonora is selecting a card...
+Andrea is selecting a card...
+
+----------VOTING PHASE----------
+
+Giuseppe is voting...
+Eleonora is voting...
+Andrea is voting...
+
+---------------VOTES---------------
+
+Andrea with card 25 has been voted by Eleonora, Giuseppe
+Giuseppe with card 75 has been voted by no one
+Eleonora with card 65 has been voted by Andrea
+Artificial Player with card 77 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 19
+Andrea: 24
+Giuseppe: 13
+Eleonora: 18
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [59, 49, 67, 58, 68, 2]
+Giuseppe has the following cards: [45, 36, 84, 33, 83, 55]
+Eleonora has the following cards: [19, 6, 22, 64, 32, 52]
+Artificial Player has the following cards: [44, 12, 5, 38, 50, 15]
+
+
+----------NARRATOR PHASE----------
+
+Eleonora is giving a caption...
+Eleonora selected a card with caption: "Sadness."
+
+----------SELECTION PHASE----------
+
+Giuseppe is selecting a card...
+Artificial Player is selecting a card...
+Andrea is selecting a card...
+
+----------VOTING PHASE----------
+
+Giuseppe is voting...
+Artificial Player is voting...
+Andrea is voting...
+
+---------------VOTES---------------
+
+Andrea with card 67 has been voted by no one
+Giuseppe with card 84 has been voted by no one
+Eleonora with card 52 has been voted by Andrea, Giuseppe, Artificial Player
+Artificial Player with card 15 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 21
+Andrea: 26
+Giuseppe: 15
+Eleonora: 18
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [59, 49, 56, 58, 68, 2]
+Giuseppe has the following cards: [45, 36, 57, 33, 83, 55]
+Eleonora has the following cards: [19, 6, 22, 64, 32, 31]
+Artificial Player has the following cards: [44, 12, 5, 38, 50, 27]
+
+
+----------NARRATOR PHASE----------
+
+Andrea is giving a caption...
+Andrea selected a card with caption: "The unexpected death."
+
+----------SELECTION PHASE----------
+
+Giuseppe is selecting a card...
+Artificial Player is selecting a card...
+Eleonora is selecting a card...
+
+----------VOTING PHASE----------
+
+Giuseppe is voting...
+Artificial Player is voting...
+Eleonora is voting...
+
+---------------VOTES---------------
+
+Andrea with card 59 has been voted by no one
+Giuseppe with card 36 has been voted by Artificial Player
+Eleonora with card 6 has been voted by no one
+Artificial Player with card 50 has been voted by Giuseppe, Eleonora
+
+---------------POINTS---------------
+
+Artificial Player: 23
+Andrea: 26
+Giuseppe: 17
+Eleonora: 20
+
+===================================
+
+PLAYERS CARDS:
+Andrea has the following cards: [74, 49, 56, 58, 68, 2]
+Giuseppe has the following cards: [45, 3, 57, 33, 83, 55]
+Eleonora has the following cards: [19, 43, 22, 64, 32, 31]
+Artificial Player has the following cards: [44, 12, 5, 38, 79, 27]
+
+
+----------NARRATOR PHASE----------
+
+Giuseppe is giving a caption...
+Giuseppe selected a card with caption: "Love has no boundaries."
+
+----------SELECTION PHASE----------
+
+Andrea is selecting a card...
+Artificial Player is selecting a card...
+Eleonora is selecting a card...
+
+----------VOTING PHASE----------
+
+Andrea is voting...
+Artificial Player is voting...
+Eleonora is voting...
+
+---------------VOTES---------------
+
+Andrea with card 56 has been voted by Eleonora
+Giuseppe with card 83 has been voted by Artificial Player, Andrea
+Eleonora with card 64 has been voted by no one
+Artificial Player with card 79 has been voted by no one
+
+---------------POINTS---------------
+
+Artificial Player: 26
+Andrea: 30
+Giuseppe: 20
+Eleonora: 20
+
+===================================
+
+Andrea has won!
