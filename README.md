@@ -23,7 +23,7 @@ Examples of captions extracted by the Dixit agent:
 ---
 
 To obtain:  
-1. The dataset used for fine tuning the models  
+1. The dataset used to fine tuning the models  
 2. The online data on which the preliminary experiments were performed
 3. The COCO dataset
 4. The weights for the trained models  
