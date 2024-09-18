@@ -25,7 +25,6 @@ class GPT_bot(Player):
 
     def get_card_and_caption(self) -> Tuple[Card, str]:
         print(f"{self.player_name} is giving a caption...")
-        #time.sleep(20)
 
         base64_cards = [self.encode_image(card.image) for card in self.cards_in_hand]
         messages = [
@@ -92,7 +91,6 @@ class GPT_bot(Player):
     
     def select_card_from_caption(self, caption: str) -> Card:
         print(f"{self.player_name} is selecting a card...")
-        #time.sleep(20)
         
         base64_cards = [self.encode_image(card.image) for card in self.cards_in_hand]
         messages = [
@@ -153,7 +151,6 @@ class GPT_bot(Player):
     
     def get_most_likely_card(self, cards_on_table: List[Tuple[Player, Card]], caption: str) -> Player:
         print(f"{self.player_name} is voting...")
-        #time.sleep(20)
         
         base64_cards = [self.encode_image(card.image) for _, card in cards_on_table]
         messages = [

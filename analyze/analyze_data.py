@@ -3,6 +3,8 @@ import argparse
 from argparse import Namespace
 import pandas as pd
 
+from typing import List
+
 def argument_parsing() -> Namespace:
     parser = argparse.ArgumentParser()
 
@@ -11,7 +13,7 @@ def argument_parsing() -> Namespace:
 
     return parser.parse_args()
 
-def calculate_narrator_votes(votes_df):
+def calculate_narrator_votes(votes_df: pd.DataFrame) -> pd.DataFrame:
     narrator_stats = {}
     rounds = votes_df['Round'].unique()
     
@@ -46,7 +48,7 @@ def calculate_narrator_votes(votes_df):
     
     return pd.DataFrame.from_dict(narrator_stats, orient='index')
 
-def calculate_votes_when_not_narrator(votes_df):
+def calculate_votes_when_not_narrator(votes_df: pd.DataFrame) -> pd.DataFrame:
     player_stats = {}
     for player in votes_df['Player'].unique():
         player_votes = votes_df[(votes_df['Player'] == player) & (votes_df['Narrator'] != player)]
@@ -61,7 +63,7 @@ def calculate_votes_when_not_narrator(votes_df):
     
     return pd.DataFrame.from_dict(player_stats, orient='index')
 
-def calculate_correct_votes_for_narrator(votes_df):
+def calculate_correct_votes_for_narrator(votes_df: pd.DataFrame) -> pd.DataFrame:
     correct_vote_stats = {}
     for player in votes_df['Player'].unique():
         player_votes = votes_df[votes_df['Voted By'].str.contains(player, na=False)]
@@ -76,7 +78,7 @@ def calculate_correct_votes_for_narrator(votes_df):
     
     return pd.DataFrame.from_dict(correct_vote_stats, orient='index')
 
-def create_analysis(path_to_excel: str, path_to_save: str):
+def create_analysis(path_to_excel: str, path_to_save: str) -> None:
     narrations_df = pd.read_excel(path_to_excel, sheet_name='Narrations')
     votes_df = pd.read_excel(path_to_excel, sheet_name='Votes')
 
@@ -91,7 +93,7 @@ def create_analysis(path_to_excel: str, path_to_save: str):
         votes_when_not_narrator_stats.to_excel(writer, sheet_name='Votes When Not Narrator', index=True)
         correct_votes_stats.to_excel(writer, sheet_name='Correct Votes Stats', index=True)
 
-def compute_combined_averages(file_list, sheet_name, value_cols, human_game):
+def compute_combined_averages(file_list: List[str], sheet_name: str, value_cols: List[str], human_game: bool) -> pd.DataFrame:
     combined_data = pd.DataFrame()
 
     for file_path in file_list:
@@ -118,7 +120,7 @@ def compute_combined_averages(file_list, sheet_name, value_cols, human_game):
 
     return combined_averages
 
-def compute_winners_stats(original_files, human_game):
+def compute_winners_stats(original_files: List[str], human_game: bool) -> pd.DataFrame:
     tot_gpt_winners = 0
     tot_bot_winners = 0
 
@@ -153,7 +155,7 @@ def compute_winners_stats(original_files, human_game):
     return  pd.DataFrame(win_stats.items(), columns=['Player', 'Winner Percent'])
 
 
-def summarize(path_to_save, file_list, original_files, human_game):
+def summarize(path_to_save: str, file_list: List[str], original_files: List[str], human_game: bool) -> None:
     with pd.ExcelWriter(os.path.join(path_to_save, "summarize.xlsx")) as writer:
         narrator_votes_averages = compute_combined_averages(file_list, 'Narrator Votes Stats', 
                                                             ['percent_voted_by_all', 'percent_voted_by_none', 'percent_voted_by_someone'], human_game)
