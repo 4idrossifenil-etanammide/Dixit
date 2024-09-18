@@ -5,13 +5,20 @@ This repository contains the code used to create, fine tune and test the Dixit b
 
 Examples of captions extracted by the Dixit agent:
 
-<p align="center">
-  <img src="cards/odissey_cards/9.jpg" alt="Image 1" width="25%" style="margin-right: 30px;" />
-  <img src="cards/odissey_cards/5.jpg" alt="Image 2" width="25%" style="margin-left: 30px;" />
-</p>
-<p align="center">
-  <i>"Ethereal whimsy in geometric harmony"</i> &emsp;&emsp;&emsp; <i>"Melancholic harmony in nature's embrace"</i>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="cards/odissey_cards/9.jpg" alt="Image 1" width="200" /></td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center"><img src="cards/odissey_cards/5.jpg" alt="Image 2" width="200" /></td>
+  </tr>
+  <tr>
+    <td align="center"><em>"Ethereal whimsy in geometric harmony"</em></td>
+    <td></td>
+    <td align="center"><em>"Melancholic harmony in nature's embrace"</em></td>
+  </tr>
+</table>
+</div>
 
 ---
 
