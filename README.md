@@ -2,6 +2,21 @@
 
 This repository contains the code used to create, fine tune and test the Dixit bot.
 
+
+Examples of captions extracted by the Dixit agent:
+<div style="display: flex; justify-content: center; align-items: center;">
+  <figure style="margin: 0 10px; text-align: center;">
+    <img src="cards/odissey_cards/9.jpg" width="200px" />
+    <figcaption>"Ethereal whimsy in geometric harmony"</figcaption>
+  </figure>
+  <figure style="margin: 0 10px; text-align: center;">
+    <img src="cards/odissey_cards/5.jpg" width="200px" />
+    <figcaption>"Melancholic harmony in nature's embrace"</figcaption>
+  </figure>
+</div>
+
+---
+
 To obtain:  
 1. The dataset used for fine tuning the models  
 2. The online data on which the preliminary experiments were performed
@@ -13,6 +28,8 @@ Open the following link: https://drive.google.com/drive/folders/1qgqw7JFqq3zDcVv
 To use the files in this repo take the content inside ```training_results/``` and paste it in the local folder ```weights/```. 
 
 > **_NOTE:_** If you want to reproduce the results obtained using the notebook inside ```models_and_finetuning/``` you will have to copy the content of the drive folder and place inside your Drive, in a folder named ```Dixit/```
+
+---
 
 The directory structure is the following:
 
@@ -90,4 +107,4 @@ The directory structure is the following:
     - **test_blip.ipynb**: Notebook used to visualize the captions produced with the fine tuned BLIP model. Said captions can be also saved to a file if specified, and if the fine tuned weights for the model are not provided, it will simply output descriptive captions.
     - **test_clip.ipynb**: Notebook used to test the performances of CLIP under different circumstances (e.g. BLIP vs CLIP, fine tuned BLIP vs CLIP, fine tuned BLIP vs fine tuned CLIP, etc...). In this file the models are tested over the three set of cards available, and because of this it can be clearly seen that the hardest cards for the models are the ones from the Odissey edition.
 
-        
+---
