@@ -8,6 +8,7 @@ import requests
 import time
 import re
 import sys
+from PIL import Image
 
 class GPT_bot(Player):
     def __init__(self, player_name: str, points_to_win: int, api_key: str):
@@ -17,7 +18,7 @@ class GPT_bot(Player):
 
         self.headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
 
-    def encode_image(self, image) -> str:
+    def encode_image(self, image: Image.Image) -> str:
         buffered = io.BytesIO()
         image.save(buffered, format="PNG") 
         image_bytes = buffered.getvalue()
